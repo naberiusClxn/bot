@@ -9,7 +9,7 @@ This is a versatile Discord bot built with disnake, designed to simplify and aut
 - Slash Commands: Easy-to-use commands with rich embeds and customization options.
 
 ## Installation
-Clone the repository:
+**Clone the repository:**
 ```git clone https://github.com/naberiusClxn/bot.git```
 
 **Install dependencies:**
