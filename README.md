@@ -10,6 +10,6 @@ This is a versatile Discord bot built with disnake, designed to simplify and aut
 
 ## Installation
 Clone the repository:
-`git clone https://github.com/naberiusClxn/bot.git`
+```git clone https://github.com/naberiusClxn/bot.git```
 **Install dependencies:**
-`pip install -r requirements.txt`
+```pip install -r requirements.txt```
